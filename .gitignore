@@ -6,8 +6,9 @@
 !lua/remaps.lua
 !lua/utils.lua
 !lua/zenmode.lua
-!lua/pkgmanager/lazy.lua
 !lua/events.lua
+!lua/pkgmanager/lazy.lua
 !shortcuts.vim
-!snippets/*
+!snippets/
+!snippets/*.c
 !init.lua
