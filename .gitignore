@@ -4,7 +4,7 @@
 !lua/events.lua
 !lua/remaps.lua
 !lua/utils.lua
-!lua/welcomescreen.lua
 !lua/zenmode.lua
 !shortcuts.vim
-!snippets
+!snippets/*
+!init.lua
