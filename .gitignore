@@ -8,6 +8,8 @@
 !lua/zenmode.lua
 !lua/events.lua
 !lua/pkgmanager/lazy.lua
+!lua/plugins/
+!lua/plugins/*
 !snippets/
 !snippets/*.c
 !init.lua
